@@ -212,12 +212,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 13c5a5c8b8a39ad48b718bfaf6f5de54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Enemy
-  enemyName: L
+  enemyName: Enemy_L
   speed: 3
   health: 3
-  sprites:
-  - {fileID: -374867461456711336, guid: fc0b34a85e2ad7a4b96e8463ecfe673f, type: 3}
-  - {fileID: 8916912148057594444, guid: fc0b34a85e2ad7a4b96e8463ecfe673f, type: 3}
+  sprites: []
   maxShotDelay: 3
   curShotDelay: 1
   bulletObjA: {fileID: 5364387621290508772, guid: fe0d9410dd6c6f347b2520cc45aa0097, type: 3}
